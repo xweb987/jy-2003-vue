@@ -1,5 +1,7 @@
 # movieproject
 
+>这个项目是我们仿照卖座网的效果实现的一个vue学习阶段的练习项目。
+
 ## Project setup
 ```
 npm install
